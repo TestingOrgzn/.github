@@ -2,8 +2,11 @@
 
 This is from the Readme file.
 
-<!--
+Adding a pic:
+![981](https://github.com/TestingOrgzn/.github/assets/7833774/c699d59d-152a-4bcb-89e3-99a9e2197303)
 
+
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
